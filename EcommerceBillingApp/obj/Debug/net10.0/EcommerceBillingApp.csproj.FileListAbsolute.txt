@@ -1,0 +1,15 @@
+C:\Users\meenu\Hex_May_26_DotNet\EcommerceBillingApp\bin\Debug\net10.0\EcommerceBillingApp.exe
+C:\Users\meenu\Hex_May_26_DotNet\EcommerceBillingApp\bin\Debug\net10.0\EcommerceBillingApp.deps.json
+C:\Users\meenu\Hex_May_26_DotNet\EcommerceBillingApp\bin\Debug\net10.0\EcommerceBillingApp.runtimeconfig.json
+C:\Users\meenu\Hex_May_26_DotNet\EcommerceBillingApp\bin\Debug\net10.0\EcommerceBillingApp.dll
+C:\Users\meenu\Hex_May_26_DotNet\EcommerceBillingApp\bin\Debug\net10.0\EcommerceBillingApp.pdb
+C:\Users\meenu\Hex_May_26_DotNet\EcommerceBillingApp\obj\Debug\net10.0\EcommerceBillingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meenu\Hex_May_26_DotNet\EcommerceBillingApp\obj\Debug\net10.0\EcommerceBillingApp.AssemblyInfoInputs.cache
+C:\Users\meenu\Hex_May_26_DotNet\EcommerceBillingApp\obj\Debug\net10.0\EcommerceBillingApp.AssemblyInfo.cs
+C:\Users\meenu\Hex_May_26_DotNet\EcommerceBillingApp\obj\Debug\net10.0\EcommerceBillingApp.csproj.CoreCompileInputs.cache
+C:\Users\meenu\Hex_May_26_DotNet\EcommerceBillingApp\obj\Debug\net10.0\EcommerceBillingApp.sourcelink.json
+C:\Users\meenu\Hex_May_26_DotNet\EcommerceBillingApp\obj\Debug\net10.0\EcommerceBillingApp.dll
+C:\Users\meenu\Hex_May_26_DotNet\EcommerceBillingApp\obj\Debug\net10.0\refint\EcommerceBillingApp.dll
+C:\Users\meenu\Hex_May_26_DotNet\EcommerceBillingApp\obj\Debug\net10.0\EcommerceBillingApp.pdb
+C:\Users\meenu\Hex_May_26_DotNet\EcommerceBillingApp\obj\Debug\net10.0\EcommerceBillingApp.genruntimeconfig.cache
+C:\Users\meenu\Hex_May_26_DotNet\EcommerceBillingApp\obj\Debug\net10.0\ref\EcommerceBillingApp.dll
