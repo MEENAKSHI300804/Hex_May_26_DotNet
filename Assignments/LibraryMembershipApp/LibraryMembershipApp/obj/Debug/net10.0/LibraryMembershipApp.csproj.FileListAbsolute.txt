@@ -1,0 +1,15 @@
+C:\Users\meenu\Hex_May_26_DotNet\Assignments\LibraryMembershipApp\LibraryMembershipApp\bin\Debug\net10.0\LibraryMembershipApp.exe
+C:\Users\meenu\Hex_May_26_DotNet\Assignments\LibraryMembershipApp\LibraryMembershipApp\bin\Debug\net10.0\LibraryMembershipApp.deps.json
+C:\Users\meenu\Hex_May_26_DotNet\Assignments\LibraryMembershipApp\LibraryMembershipApp\bin\Debug\net10.0\LibraryMembershipApp.runtimeconfig.json
+C:\Users\meenu\Hex_May_26_DotNet\Assignments\LibraryMembershipApp\LibraryMembershipApp\bin\Debug\net10.0\LibraryMembershipApp.dll
+C:\Users\meenu\Hex_May_26_DotNet\Assignments\LibraryMembershipApp\LibraryMembershipApp\bin\Debug\net10.0\LibraryMembershipApp.pdb
+C:\Users\meenu\Hex_May_26_DotNet\Assignments\LibraryMembershipApp\LibraryMembershipApp\obj\Debug\net10.0\LibraryMembershipApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meenu\Hex_May_26_DotNet\Assignments\LibraryMembershipApp\LibraryMembershipApp\obj\Debug\net10.0\LibraryMembershipApp.AssemblyInfoInputs.cache
+C:\Users\meenu\Hex_May_26_DotNet\Assignments\LibraryMembershipApp\LibraryMembershipApp\obj\Debug\net10.0\LibraryMembershipApp.AssemblyInfo.cs
+C:\Users\meenu\Hex_May_26_DotNet\Assignments\LibraryMembershipApp\LibraryMembershipApp\obj\Debug\net10.0\LibraryMembershipApp.csproj.CoreCompileInputs.cache
+C:\Users\meenu\Hex_May_26_DotNet\Assignments\LibraryMembershipApp\LibraryMembershipApp\obj\Debug\net10.0\LibraryMembershipApp.sourcelink.json
+C:\Users\meenu\Hex_May_26_DotNet\Assignments\LibraryMembershipApp\LibraryMembershipApp\obj\Debug\net10.0\LibraryMembershipApp.dll
+C:\Users\meenu\Hex_May_26_DotNet\Assignments\LibraryMembershipApp\LibraryMembershipApp\obj\Debug\net10.0\refint\LibraryMembershipApp.dll
+C:\Users\meenu\Hex_May_26_DotNet\Assignments\LibraryMembershipApp\LibraryMembershipApp\obj\Debug\net10.0\LibraryMembershipApp.pdb
+C:\Users\meenu\Hex_May_26_DotNet\Assignments\LibraryMembershipApp\LibraryMembershipApp\obj\Debug\net10.0\LibraryMembershipApp.genruntimeconfig.cache
+C:\Users\meenu\Hex_May_26_DotNet\Assignments\LibraryMembershipApp\LibraryMembershipApp\obj\Debug\net10.0\ref\LibraryMembershipApp.dll

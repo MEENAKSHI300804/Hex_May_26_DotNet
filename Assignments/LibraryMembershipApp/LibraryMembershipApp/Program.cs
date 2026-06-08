@@ -1,0 +1,12 @@
+﻿using System;
+
+namespace LibraryMembershipApp
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Library Membership Application");
+        }
+    }
+}
