@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SkyPort Departures</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="header">
+  <div>
+    <h1>SKYPORT</h1>
+    <p>INTERNATIONAL DEPARTURES</p>
+  </div>
+  <div class="time-box">
+    <h2 id="clock">--:--:--</h2>
+    <span id="date"></span>
+  </div>
+</header>
+
+<section class="summary" id="summary"></section>
+
+<div class="table-head">
+  <span>TIME</span>
+  <span>FLIGHT</span>
+  <span>DESTINATION</span>
+  <span>GATE</span>
+  <span>STATUS</span>
+</div>
+
+<main id="board" class="board"></main>
+
+<section class="controls">
+  <button id="addBtn">+ Add Flight</button>
+  <button id="resetBtn">Reset</button>
+  <button id="customBtn">Custom Flight</button>
+</section>
+
+<section class="form-box" id="formBox" hidden>
+  <input type="text" id="timeInput" placeholder="Time 14:30">
+  <input type="text" id="flightInput" placeholder="Flight AI 302">
+  <input type="text" id="destInput" placeholder="Destination Delhi">
+  <input type="text" id="gateInput" placeholder="Gate A5">
+  <button id="submitBtn">Add Custom Flight</button>
+</section>
+
+<script src="script.js"></script>
+</body>
+</html>
